@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-aguscolombo20009@hotmail.com-EA4335?style=flat&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://web-page-curriculum.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-web-page-curriculum.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-web--page--curriculum.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -34,12 +34,12 @@ Soy desarrollador full-stack, ubicado en Córdoba, Argentina. Diseño, desarroll
 
 **Frontend**
 
-Trabajé con 
+Trabajé con <br/>
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![ASP.NET Core](https://custom-icon-badges.demolab.com/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-Aprendiendo 
+Aprendiendo <br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -47,7 +47,7 @@ Aprendiendo
 
 **Backend & Database**
 
-Trabajé con 
+Trabajé con <br/>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -55,7 +55,7 @@ Trabajé con
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=flat&logo=mssqlserver-white&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
 
-Aprendiendo
+Aprendiendo <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -63,7 +63,7 @@ Aprendiendo
 
 **Automation & Cloud**
 
-Aprendiendo
+Aprendiendo <br/>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
@@ -71,7 +71,7 @@ Aprendiendo
 
 **AI & Dev Tools**
 
-Trabajo con
+Trabajo con <br/>
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white)
