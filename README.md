@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-aguscolombo20009@hotmail.com-EA4335?style=flat&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://web-page-curriculum.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-web--page--curriculum.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Web%20Page-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 Soy desarrollador full-stack, ubicado en Córdoba, Argentina. Diseño, desarrollo y mantengo los sistemas web para Manpowergroup. También trabajo con proyectos personales para poder brindar soluciones a clientes locales y pequeñas empresas, mediante analisis, relevamiento y desarrollo de soluciones personalizadas.
 
-- 🔭 Actualmente desarrollando e manteniendo sistemas web para mi empresa mediante tecnologías como .Net, SQL Server y ASP.NET. También participando de otros proyectos con Node.js y Express.
+- 🔭 Actualmente desarrollando y manteniendo sistemas web para mi empresa mediante tecnologías como .Net, SQL Server y ASP.NET. También participando de otros proyectos con Node.js y Express.
 - 🎓 Estudiando Ingenieria en sistemas en UTN
 - 🤖 Utilizo herramientas IA como **Claude Code** y local LLMs (Ollama + Open WebUI) como asistente de codigo en mis proyectos personales, optimizando tiempo y eficiencia en el desarrollo.
 - 🌱 Explorando **Arquitectura SaaS** junto con implementaciones nativas en la nube en GCP
@@ -75,7 +75,7 @@ Trabajo con <br/>
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
